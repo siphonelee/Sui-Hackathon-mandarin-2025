@@ -14,7 +14,7 @@
 > 自我介绍&技术栈: 多年后端和架构经验，涉猎语言包括c++/java/python/go/rust/php/node，AI方向硕士。技术兴趣广泛，多链爱好者、黑客松爱好者。
 
 ## 参赛信息
-- [项目代码1](*8) https://github.com/siphonelee/PeerLink
+- [项目代码1](*8) (https://github.com/siphonelee/PeerLink)
 - [PPT]()
 
 ## 其他附加说明
