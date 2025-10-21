@@ -15,6 +15,7 @@
 
 ## 参赛信息
 - [项目代码1](https://github.com/siphonelee/PeerLink)
+- [合约地址](https://testnet.suivision.xyz/package/0xfb36cf34de0b56715aedf3a6aa8160a14f8ce012416fa4fe11e78f6d5934db94)
 - [PPT]()
 
 ## 其他附加说明
